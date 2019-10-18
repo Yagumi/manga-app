@@ -1,0 +1,4 @@
+/.git
+/.vscode
+/src/serviceWorker.js
+node_modules
